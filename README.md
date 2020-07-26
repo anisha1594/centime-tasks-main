@@ -9,7 +9,8 @@ This project combines the tasks 1 and 2 of the assignment.
 * JDK - Java™ Platform, Standard Edition Development Kit
 * Spring Boot - Framework to ease the bootstrapping and development of new Spring Applications
 * git - Free and Open-Source distributed version control system
-* Swagger - Open-Source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
+* Swagger OpenAPI v3 - Open-Source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
+* H2 in-memory Database
 
 ### Repository
 
